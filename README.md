@@ -4,4 +4,8 @@
 Yo, meet the slickest day trading bro-bot on the block! This bad boy’s whole game plan? Spotting those rad engulfing bearish and bullish patterns on candlestick charts like a hawk spotting lunch. It’s like, when the market throws a bearish engulfing bash, this bot’s all about selling high before the dip hits. And when there’s a bullish bash? It’s time to buy low and ride the wave up. Basically, this bot’s got one rule: buy low, sell high. It’s not rocket science, just mad gains, bro! It’s like having your own financial fortune teller, only with more charts and less crystal ball vibes.
 
 # Sample
-![Screenshot 2024-04-29 at 10 24 46 AM](https://github.com/scaryPonens/trade_bot/assets/165761/13ff9dbf-3648-4ec3-83c5-1d2ffdfe3fc8)
+![image](https://github.com/scaryPonens/trade_bot/assets/165761/da3e9fa2-5a68-4c27-abfd-e750643add2d)
+
+
+# Try it
+https://tradely.streamlit.app/
