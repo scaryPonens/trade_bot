@@ -1,7 +1,10 @@
 jupyter
 matplotlib
+mpl_finance
 pandas
+pandas_ta
 plotly
 python-dotenv
 streamlit
+termcolor
 yfinance
